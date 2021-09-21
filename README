@@ -1,9 +1,12 @@
 Criando um APP de cadastro em memória
 Aplicação de cadastro de séries que realizam como seguintes ações:
 
+MÉTODOS:
 
-- Inserção de novas séries
-- Brasileirão de séries
-- Atualização
-- Exclusividade
-- Vizualização
+1. Listae Série
+2. Inserir Série
+3. Atualizar Série 
+4. Excluir Série
+5. Visualizar Série
+
+Desafio: Criando um APP simples de cadastro de séries em .NET.
